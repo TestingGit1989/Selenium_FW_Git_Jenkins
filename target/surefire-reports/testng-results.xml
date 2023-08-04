@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-04T14:01:00 IST" name="Suite" finished-at="2023-08-04T14:01:21 IST" duration-ms="20896">
+    <groups>
+    </groups>
+    <test started-at="2023-08-04T14:01:00 IST" name="Test" finished-at="2023-08-04T14:01:21 IST" duration-ms="20896">
+      <class name="POM.TC_001Test">
+        <test-method is-config="true" signature="loadprop()[pri:0, instance:POM.TC_001Test@57db2b13]" started-at="2023-08-04T14:01:00 IST" name="loadprop" finished-at="2023-08-04T14:01:04 IST" duration-ms="3999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadprop -->
+        <test-method signature="getlogin()[pri:0, instance:POM.TC_001Test@57db2b13]" started-at="2023-08-04T14:01:04 IST" name="getlogin" finished-at="2023-08-04T14:01:06 IST" duration-ms="1545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getlogin -->
+        <test-method is-config="true" signature="loadprop()[pri:0, instance:POM.TC_001Test@57db2b13]" started-at="2023-08-04T14:01:06 IST" name="loadprop" finished-at="2023-08-04T14:01:09 IST" duration-ms="3361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadprop -->
+        <test-method signature="getlogin1()[pri:0, instance:POM.TC_001Test@57db2b13]" started-at="2023-08-04T14:01:09 IST" name="getlogin1" finished-at="2023-08-04T14:01:11 IST" duration-ms="1455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getlogin1 -->
+        <test-method is-config="true" signature="loadprop()[pri:0, instance:POM.TC_001Test@57db2b13]" started-at="2023-08-04T14:01:11 IST" name="loadprop" finished-at="2023-08-04T14:01:14 IST" duration-ms="3379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadprop -->
+        <test-method signature="getlogin2()[pri:0, instance:POM.TC_001Test@57db2b13]" started-at="2023-08-04T14:01:14 IST" name="getlogin2" finished-at="2023-08-04T14:01:16 IST" duration-ms="1511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getlogin2 -->
+        <test-method is-config="true" signature="loadprop()[pri:0, instance:POM.TC_001Test@57db2b13]" started-at="2023-08-04T14:01:16 IST" name="loadprop" finished-at="2023-08-04T14:01:19 IST" duration-ms="3534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadprop -->
+        <test-method signature="getlogin3()[pri:0, instance:POM.TC_001Test@57db2b13]" started-at="2023-08-04T14:01:19 IST" name="getlogin3" finished-at="2023-08-04T14:01:21 IST" duration-ms="2070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getlogin3 -->
+      </class> <!-- POM.TC_001Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
